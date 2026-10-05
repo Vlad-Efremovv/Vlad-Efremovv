@@ -1,4 +1,4 @@
-<img width="160" height="240" alt="profile photo" src="https://github.com/Vlad-Efremovv/Vlad-Efremovv/blob/master/DSC00495.jpg" />
+<img width="160" height="240" alt="profile photo" src="https://github.com/Vlad-Efremovv/Vlad-Efremovv/blob/master/photo_2026-10-05_19-38-33.jpg" />
 
 # 👨‍💻 Владислав Ефремов
 
