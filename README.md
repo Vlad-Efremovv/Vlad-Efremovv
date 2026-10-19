@@ -6,7 +6,7 @@
     <td style="border: none; padding: 0 0 0 20px;" valign="top">
       <h1>👨‍💻 Владислав Ефремов</h1>
       <p><b>Flutter Developer (Cross-platform) / iOS / Android</b></p>
-      <p>21 лет | Тверь, Россия</p>
+      <p>21 год | Тверь, Россия</p>
     </td>
   </tr>
 </table>
