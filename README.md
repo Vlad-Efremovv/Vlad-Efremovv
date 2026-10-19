@@ -1,11 +1,17 @@
-<img width="160" height="240" alt="profile photo" src="https://github.com/Vlad-Efremovv/Vlad-Efremovv/blob/master/photo_2026-10-05_19-38-33.jpg" />
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none; padding: 0;" width="300" valign="top">
+      <img src="https://raw.githubusercontent.com/Vlad-Efremovv/Vlad-Efremovv/master/photo_2026-10-05_19-38-33.jpg" width="350" height="470" alt="profile photo" />
+    </td>
+    <td style="border: none; padding: 0 0 0 20px;" valign="top">
+      <h1>👨‍💻 Владислав Ефремов</h1>
+      <p><b>Flutter Developer (Cross-platform) / iOS / Android</b></p>
+      <p>21 лет | Тверь, Россия</p>
+    </td>
+  </tr>
+</table>
 
-# 👨‍💻 Владислав Ефремов
-
-**Flutter Developer (Cross-platform) / iOS / Android**  
-21 лет | Тверь, Россия
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Vladislav_Efremovv-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vladislav_Efremovv)
+[![Telegram](https://img.shields.io/badge/Tg-@Vladislav_Efremovv-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vladislav_Efremovv)
 [![Email](https://img.shields.io/badge/Email-va.efremov@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:va.efremov@mail.ru)
 [![Phone](https://img.shields.io/badge/Phone-+7(904)013--90--93-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79040139093)
 
