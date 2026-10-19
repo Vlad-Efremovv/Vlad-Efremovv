@@ -3,7 +3,7 @@
 # 👨‍💻 Владислав Ефремов
 
 **Flutter Developer (Cross-platform) / iOS / Android**  
-20 лет | Тверь, Россия
+21 лет | Тверь, Россия
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Vladislav_Efremovv-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vladislav_Efremovv)
 [![Email](https://img.shields.io/badge/Email-va.efremov@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:va.efremov@mail.ru)
